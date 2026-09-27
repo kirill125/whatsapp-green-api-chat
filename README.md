@@ -15,7 +15,7 @@ React 19, TypeScript 5, Vite 7, CSS, npm.
 
 ## Запуск
 
-Нужен Node.js 20.19+ или 22.12+.
+Нужен Node.js 20.19+ в ветке 20.x или Node.js 22.12+; версия 21.x не поддерживается Vite.
 
     npm install
     npm run dev
